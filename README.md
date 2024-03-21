@@ -1,2 +1,4 @@
 - Hi, Selamat Datang Buat Teman-teman Sekalian
-  
+- git init
+- git add *
+-  
